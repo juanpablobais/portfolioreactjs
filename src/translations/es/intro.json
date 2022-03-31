@@ -1,0 +1,12 @@
+{
+    "h2.intro":{
+        "welcome-to": "Bienvenido a"
+    },
+    "div.i-title-item":{
+        "web-developer": "Desarrollador Web",
+        "self-taught-person": "Autodidacta"
+    },
+    "p.i-desc":{
+        "presentation": "Mi nombre es Juan Pablo. Soy un desarrollador web autodidacta y freelancer. Aquí puedes ver todos mis trabajos y presupuestar tu propia web."
+    }
+}

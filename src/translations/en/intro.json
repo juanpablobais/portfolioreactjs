@@ -1,0 +1,12 @@
+{
+    "h2.intro":{
+        "welcome-to": "Welcome To"
+    },
+    "div.i-title-item":{
+        "web-developer": "Web Developer",
+        "self-taught-person": "Self-taught person"
+    },
+    "p.i-desc":{
+        "presentation": "My name is Juan Pablo. I'am a self-taught Front-End web developer and a freelancer guy. Here you can see all my works and ask me for your own website."
+    }
+}

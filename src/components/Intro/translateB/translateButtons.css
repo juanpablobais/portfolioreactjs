@@ -1,0 +1,27 @@
+.t-buttons{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.t-b1, .t-b2{
+    border: 2px solid rgb(208, 208, 208);
+    background-repeat:no-repeat;
+    height:60px;
+    width:70px;
+    background-position:center;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.t-b1,.t-b2:hover{
+    cursor: pointer;
+}
+
+.t-b1{
+    background-image: url("https://i.ibb.co/VJtC5DP/unitedstates.png");
+    background-size: 100%;
+}
+
+.t-b2 {
+    background-image: url("https://i.ibb.co/b1B1fMB/spain.png") ;
+    background-size: 105%;
+}

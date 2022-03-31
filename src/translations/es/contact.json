@@ -1,0 +1,11 @@
+{
+    "h1.c-title":{
+        "title-contact": "Discutamos sobre tu proyecto"
+    },
+    "p.c-desc":{
+        "description": "Qué tienes en mente? Ponte en contacto. Siempre disponible para trabajos freelance si el proyecto correcto viene a mí. Escríbeme un E-mail aquí:"
+    },
+    "button.b-submit":{
+        "send": "Enviar"
+    }
+}
